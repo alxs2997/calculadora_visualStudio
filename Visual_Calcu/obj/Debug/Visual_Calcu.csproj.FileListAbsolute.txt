@@ -1,0 +1,9 @@
+c:\users\ajdlj\documents\visual studio 2015\Projects\Visual_Calcu\Visual_Calcu\bin\Debug\Visual_Calcu.exe.config
+C:\Users\ajdlj\documents\visual studio 2015\Projects\Visual_Calcu\Visual_Calcu\bin\Debug\Visual_Calcu.exe
+C:\Users\ajdlj\documents\visual studio 2015\Projects\Visual_Calcu\Visual_Calcu\bin\Debug\Visual_Calcu.pdb
+C:\Users\ajdlj\documents\visual studio 2015\Projects\Visual_Calcu\Visual_Calcu\obj\Debug\Visual_Calcu.csprojResolveAssemblyReference.cache
+C:\Users\ajdlj\documents\visual studio 2015\Projects\Visual_Calcu\Visual_Calcu\obj\Debug\Visual_Calcu.Form1.resources
+C:\Users\ajdlj\documents\visual studio 2015\Projects\Visual_Calcu\Visual_Calcu\obj\Debug\Visual_Calcu.Properties.Resources.resources
+C:\Users\ajdlj\documents\visual studio 2015\Projects\Visual_Calcu\Visual_Calcu\obj\Debug\Visual_Calcu.csproj.GenerateResource.Cache
+C:\Users\ajdlj\documents\visual studio 2015\Projects\Visual_Calcu\Visual_Calcu\obj\Debug\Visual_Calcu.exe
+C:\Users\ajdlj\documents\visual studio 2015\Projects\Visual_Calcu\Visual_Calcu\obj\Debug\Visual_Calcu.pdb
